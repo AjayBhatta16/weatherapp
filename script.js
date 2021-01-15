@@ -1,4 +1,4 @@
-const API_KEY = '26b35864c8ddbb442771417dc2e31470'
+const API_KEY = '' // Insert openweathermap API key here
 
 // Fields for data from API call
 const cityName = document.querySelector('#city-name')
