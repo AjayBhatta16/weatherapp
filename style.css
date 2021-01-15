@@ -1,0 +1,56 @@
+body {
+  background-color: #333;
+  color: white;
+}
+
+.container {
+  min-width: 250px;
+  width: 80%;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+input[type='text'] {
+  height: 30px;
+  width: calc(100% - 60px);
+}
+
+#go {
+  height: 36px;
+  width: 40px;
+}
+
+img {
+  height: 65px;
+  width: 65px;
+}
+
+.temperature {
+  font-size: 65px;
+  padding-left: 15px;
+}
+
+.inline-center {
+  width: 215px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.detail {
+  font-size: 20px;
+}
+
+#return {
+  height: 30px;
+  margin-top: 20px;
+}
+
+button {
+  cursor: pointer;
+}
